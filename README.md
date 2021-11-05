@@ -25,5 +25,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
+## Screenshot
+![Screenshot (7)](https://user-images.githubusercontent.com/90938940/140551566-88af6e69-3885-4e71-b06e-e83e82356dc7.png)
+
 ## Link
 https://oddtk.github.io/Password-Generator/
